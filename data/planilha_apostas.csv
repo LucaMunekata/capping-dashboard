@@ -1,0 +1,423 @@
+date,parlay,bookie,sport,selection,bet_type,capper,competition,extra_info,event,live,score,units,odd,free_bet,result,lucro_unidade,lucro_monetario,unidade_vigente
+2025-01-21,N,bet365,Futebol,Raphinha - Over 0.5,O/U chutes no gol,,Champions League,Fase de Liga,Benfica v Barcelona,N,4-5,7.0,2.0,N,W,7.0,70.0,10.0
+2025-01-23,N,bet365,Futebol,1° Tempo - Over 0.5,O/U gols no tempo,,Paulista,Fase de Grupos,São Paulo v Guarani,N,1-0,4.0,2.0,N,W,4.0,40.0,10.0
+2025-01-25,N,Superbet,Futebol,Cole Palmer - Over 0.5,O/U finalizações,,Premier League,Liga,Manchester City v Chelsea,N,3-1,2.4,2.0,N,W,2.4,24.0,10.0
+2025-01-28,N,Superbet,Futebol,Estevão - Over 0.5,O/U finalizações,,Paulista,Fase de Grupos,Palmeiras v RB Bragantino,N,0-0,2.0,2.0,N,W,2.0,20.0,10.0
+2025-01-29,N,betfair,Futebol,Erling Haaland - Over 0.5,O/U chutes no gol,,Champions League,Fase de Liga,Manchester City v Club Brugge,N,3-1,5.0,2.0,N,W,5.0,50.0,10.0
+2025-01-29,N,Superbet,Futebol,4 seleções,Múltipla,,Champions League,,,N,,0.5,3.552,S,W,1.276,12.76,10.0
+2025-04-13,S,,,Aston Villa,ML,,Champions League,Fase de Liga,Aston Villa v Celtic,N,4-3,,,N,w,,,
+2025-04-13,S,,,Bayer Leverkusen,ML,,Champions League,Fase de Liga,Bayer Leverkusen v Sparta Prague,N,2-0,,,N,w,,,
+2025-04-13,S,,,Manchester City,ML,,Champions League,Fase de Liga,Manchester City v Club Brugge,N,3-1,,,N,w,,,
+2025-04-13,S,,,Inter de Milão,ML,,Champions League,Fase de Liga,Inter de Milão v Monaco,N,3-0,,,N,w,,,
+2025-02-03,N,Superbet,Futebol,Erling Haaland - Over 0.5,O/U chutes no gol,,Premier League,Liga,Arsenal v Manchester City,N,5-1,2.1,2.0,N,W,2.1,21.0,10.0
+2025-02-03,N,Superbet,Tenis,Christopher Eubanks,ML,,ATP Tour,Dallas 500 - R32,Matteo Arnaldi v Christopher Eubanks,N,2-0,0.841,2.2,N,L,-0.841,-8.41,10.0
+2025-02-05,N,betfair,Futebol,Bruno Guimarães - Over 0.5,O/U faltas cometidas,,Carabao Cup,SF,Newcastle v Arsenal,N,2-0,5.0,2.0,N,W,5.0,50.0,10.0
+2025-02-05,N,bet365,Futebol,Santos,Primeiro a marcar,,Paulista,Fase de Grupos,Santos v Botafogo-SP,N,1-1,7.0,2.0,N,W,7.0,70.0,10.0
+2025-02-06,N,Superbet,Tenis,2 seleções,Dupla,Bonfa,,,,,,1.0,1.99,N,W,0.988,9.88,10.0
+2025-02-06,S,,,Alex de Minaur,ML,,ATP Tour,Rotterdam 500 - R16,Jakub Mensik v Alex de Minaur,N,0-2,,,N,w,,,
+2025-02-06,S,,,Francisco Comesaña,ML,,Challenger Tour,Rosario 125 - R16,Francisco Comesaña v Andrea Pellegrino,N,2-0,,,N,w,,,
+2025-02-06,N,Superbet,Tenis,Tallon Griekspoor,ML,,ATP Tour,Rotterdam 500 - R16,Stefanos Tsitsipas v Tallon Griekspoor,N,2-1 (1-1),1.0,2.25,N,L,-1.0,-10.0,10.0
+2025-02-06,N,bet365,Futebol,Raphinha - Over 0.5,Anytime G/A,,Copa del Rey,QF,Valencia v Barcelona,N,0-5,7.0,2.0,N,W,7.0,70.0,10.0
+2025-02-06,N,Superbet,Tenis,Ben Shelton,ML,,ATP Tour,Dallas 500 - R16,Jaume Munar v Ben Shelton,S,2-0 (1-0),1.0,2.15,N,L,-1.0,-10.0,10.0
+2025-02-08,N,Superbet,Tenis,Dalibor Svrcina,ML,Bonfa,Challenger Tour,Chennai 100 - SF,Kyrian Jacquet v Dalibor Svrcina,N,2-0,1.0,1.65,N,L,-1.0,-10.0,10.0
+2025-02-08,N,Estrelabet,Futebol,Vinicius Jr. - Over 0.5,O/U chutes no gol,,La Liga,Liga,Real Madrid v Atletico de Madrid,N,1-1,5.0,2.0,N,W,5.0,50.0,10.0
+2025-02-09,N,bet365,Futebol,Neymar Jr. - Over 0.5,O/U chutes no gol,,Paulista,Fase de Grupos,Novorizontino v Santos,N,0-0,7.0,2.0,N,L,-7.0,-70.0,10.0
+2025-02-09,N,bet365,NFL,Over 0.5 no 1° quarto,O/U touchdowns,,NFL,Superbowl LIX,Philadelphia Eagles v Kansas City Chiefs,N,40-22,7.0,2.0,N,W,7.0,70.0,10.0
+2025-02-10,N,Superbet,Tenis,Francisco Comesaña +1.5,Handicap Asiático,,ATP Tour,Buenos Aires 250 - R32,Mariano Navone v Francisco Comesaña,N,2-0,1.0,1.64,N,L,-1.0,-10.0,10.0
+2025-02-10,N,Estrelabet,NBA,Luka Doncic marcar cesta de 2,,,NBA,Temporada Regular,Los Angeles Lakers v Utah Jazz,N,132-113,0.5,2.0,N,W,0.5,5.0,10.0
+2025-02-11,N,Superbet,Tenis,2 seleções,Dupla,Bonfa,,,,N,,1.0,1.932,N,W,0.932,9.32,10.0
+2025-02-11,S,,,Daria Kasatkina,ML,,WTA Tour,Doha 1000 - R32,Daria Kasatkina v Elina Avanesyan,N,2-0,,,N,w,,,
+2025-02-11,S,,,Sebastian Baez,ML,,ATP Tour,Buenos Aires 250 - R32,Sebastian Baez v Camilo Ugo Carabelli,N,2-0,,,N,w,,,
+2025-02-11,N,betfair,Futebol,Rodrygo - Over 0.5,O/U faltas sofridas,,Champions League,Knockout Phase,Manchester City v Real Madrid,N,2-3,2.519,2.0,N,L,-2.519,-25.19,10.0
+2025-02-11,N,bet365,Futebol,Vinicius Jr. - Over 0.5,O/U chutes no gol,,Champions League,Knockout Phase,Manchester City v Real Madrid,N,2-3,7.0,2.0,N,W,7.0,70.0,10.0
+2025-02-11,N,Estrelabet,Futebol,Over 0.5,O/U escanteios,,Champions League,Knockout Phase,Manchester City v Real Madrid,N,2-3,0.5,2.0,N,W,0.5,5.0,10.0
+2025-04-12,N,Bet365,Tenis,Lorenzo Sonego -2.5,Handicap games,Bonfa,ATP Tour,Marseille 250 - R16,Lorenzo Sonego v Luca van Assche,N,WO,1.0,1.83,N,R,0.0,0.0,10.0
+2025-02-12,N,bet365,Futebol,2 seleções,Dupla,,,,-,N,-,1.0,6.0,N,L,-1.0,-10.0,10.0
+2025-02-12,S,,,Memphis Depay - Over 0.5,O/U chutes no gol,,Paulista,Fase de Grupos,Corinthians v Santos,N,2-1,,,N,w,,,
+2025-02-12,S,,,Neymar Jr. - Over 1.5,O/U chutes no gol,,Paulista,Fase de Grupos,Corinthians v Santos,N,2-1,,,N,l,,,
+2025-02-13,N,bet365,Tenis,Learner Tien,ML,,ATP Tour,Delray Beach 250 - R16,Matteo Arnaldi v Learner Tien,N,2-1,1.0,2.1,N,L,-1.0,-10.0,10.0
+2025-02-13,N,Betano,Tenis,João Fonseca -1.5,Handicap Asiático,,ATP Tour,Buenos Aires 250 - R16,João Fonseca v Federico Coria,N,2-1,2.5,1.75,N,L,-2.5,-25.0,10.0
+2025-02-14,N,Superbet,Tenis,2 seleções,Dupla,Bonfa,,,,N,,1.0,1.44,N,W,0.44,14.4,10.0
+2025-04-13,S,,,Pablo Carreño Busta,ML,,Challenger Tour,Tenerife 2 - QF,Abedallah Shelbayh v Pablo Carreño Busta,N,1-0 RET,,,N,r,,,
+2025-04-13,S,,,Hamad Medjedovic,ML,,ATP Tour,Marseille 250 - QF,Hamad Medjedovic v Daniel Altmaier,N,2-1,,,N,w,,,
+2025-02-15,N,bet365,Futebol,Real Madrid,Primeiro a marcar,,La Liga,Liga,Osasuna v Real Madrid,N,1-1,7.0,2.0,N,W,7.0,140.0,10.0
+2025-02-15,N,Estrelabet,Futebol,Coutinho + Arrascaeta toque,,,Carioca,Fase de Grupos,Flamengo v Vasco da Gama,N,2-0,0.5,2.0,N,W,0.5,5.0,10.0
+2025-02-15,N,Superbet,Tenis,Chun Hsin Tseng,ML,Bonfa,ATP Tour,Rio de Janeiro 500 - Q,João Lucas Reis v Chun Hsin Tseng,Y,1-2 (1-1),2.0,1.57,N,W,1.14,11.4,10.0
+2025-02-16,N,bet365,Futebol,Sim,Ambas marcam,,Premier League,Liga,Tottenham Hotspur v Manchester United,N,1-0,4.0,2.0,N,L,-4.0,-40.0,10.0
+2025-02-16,N,Superbet,Tenis,Hugo Dellien,ML,Bonfa,ATP Tour,Rio de Janeiro 500 - Q,Hugo Dellien v Roman Andrés Burruchaga,N,2-1,1.5,1.65,N,W,0.98,9.75,10.0
+2025-02-17,N,Superbet,Tenis,Francisco Comesaña,ML,Bonfa,ATP Tour,Rio de Janeiro 500 - R32,Gustavo Heide v Francisco Comesaña,N,1-2,0.98,1.85,N,W,0.83,8.29,10.0
+2025-02-18,N,Superbet,Tenis,Hugo Dellien,ML,Bonfa,ATP Tour,Rio de Janeiro 500 - Q,Luciano Darderi v Hugo Dellien,N,1-0 RET,1.0,2.0,N,R,0.0,0.0,10.0
+2025-02-18,N,Estrelabet,Futebol,Bayern Munich - Over 0.5,O/U chutes no gol,,Champions League,Knockout Phase,Bayern Munich v Celtic,N,1-1,0.5,2.0,N,W,0.5,5.0,10.0
+2025-02-18,N,Superbet,Futebol,Harry Kane,Anytime G/A,,Champions League,Knockout Phase,Bayern Munich v Celtic,N,1-1,2.1,2.0,N,R,0.0,0.0,10.0
+2025-02-18,N,Superbet,Futebol,Criar Aposta,Tripla,,Champions League,Knockout Phase,Atalanta v Club Brugge,N,1-3,0.5,2.0,N,L,-0.5,-5.0,10.0
+2025-02-18,S,,,Atalanta,ML,,,,,N,,,,N,l,,,
+2025-02-18,S,,,Atalanta - Over 1.5,O/U gols,,,,,N,,,,N,l,,,
+2025-02-18,S,,,Mateo Retegui - Over 0.5,O/U chutes no gol,,,,,N,,,,N,l,,,
+2025-02-18,N,bet365,Tenis,João Fonseca - Over 4.5,O/U aces,,ATP Tour,Rio de Janeiro 500 - R32,João Fonseca v Alexandre Muller,N,0-2,2.0,3.0,N,W,4.0,40.0,10.0
+2025-02-18,N,Superbet,Tenis,João Fonseca +1.5,Handicap Asiático,,ATP Tour,Rio de Janeiro 500 - R32,João Fonseca v Alexandre Muller,N,0-2,2.2,2.0,N,L,-2.2,-22.0,10.0
+2025-02-19,N,bet365,Tenis,Andrey Rublev -3.5,Handicap games,Master,ATP Tour,Doha 500 - R16,Andrey Rublev v Nuno Borges,N,2-0,1.0,1.83,N,W,0.83,8.3,10.0
+2025-02-19,N,Superbet,Tenis,Tallon Griekspoor +1.5,Handicap Asiático,,ATP Tour,Doha 500 - R16,Matteo Berrettini v Tallon Griekspoor,N,2-1,1.0,1.72,N,W,0.72,7.2,10.0
+2025-02-19,N,Estrelabet,Futebol,Qualquer brasileiro - Over 0.5,O/U finalizações,,Champions League,Knockout Phase,Real Madrid v Manchester City,N,3-1,0.5,2.0,N,W,0.5,5.0,10.0
+2025-02-19,N,Superbet,Tenis,2 seleções,Dupla,Bonfa,,,,N,,1.0,2.2,N,L,-1.0,-10.0,10.0
+2025-02-19,S,,,Nicolas Jarry,ML,,ATP Tour,Rio de Janeiro 500 - R16,Francisco Comesaña v Nicolas Jarry,N,2-1,,,N,l,,,
+2025-02-19,S,,,Thiago Monteiro,ML,,ATP Tour,Rio de Janeiro 500 - R16,Thiago Monteiro v Chun Hsin Tseng,N,1-2,,,N,l,,,
+2025-02-19,N,bet365,Futebol,Criar Aposta,Dupla,,Paulista,Fase de Grupos,Santos v Noroeste,N,3-0,7.0,2.0,N,L,-7.0,-70.0,10.0
+2025-02-19,S,,,Neymar Jr. - Over 0.5,O/U chutes no gol,,,,,N,,0.0,1.0,N,l,-0.0,-0.0,
+2025-02-19,S,,,Guilherme - Over 0.5,O/U chutes no gol,,,,,N,,0.0,1.0,N,w,0.0,0.0,
+2025-02-20,N,bet365,Futebol,Botafogo - Over 0.5,O/U gols,Arbitrage,Recopa,F,Racing Club v Botafogo,N,2-0,7.0,2.0,N,L,-7.0,-70.0,10.0
+2025-02-20,N,betfair,Futebol,Botafogo - Under 0.5,O/U gols,Arbitrage,Recopa,F,Racing Club v Botafogo,N,2-0,5.7,2.45,N,W,8.27,82.65,10.0
+2025-02-20,N,Superbet,Tenis,Matos/Melo,ML,Bonfa,ATP Tour,Rio de Janeiro 500 D - QF,Cabral/Rojer v Matos/Melo,N,0-2,1.0,1.68,N,W,0.68,6.8,10.0
+2025-02-20,N,bet365,Tenis,Jaume Munar -3.5,Handicap games,Master,ATP Tour,Rio de Janeiro 500 - R16,Jaume Munar v Jaime Faria,N,1-2,1.0,1.8,N,L,-1.0,-10.0,10.0
+2025-02-21,N,Superbet,Tenis,2 seleções,,Bonfa,,,,N,,1.0,1.97,N,L,-1.0,-10.0,10.0
+2025-02-21,S,,,Matos/Melo,ML,,ATP Tour,Rio de Janeiro 500 D - SF,Matos/Melo v Darderi/Navone,N,2-1,,,N,w,,,
+2025-02-21,S,,,Chun Hsin Tseng +5.5,Handicap games,,ATP Tour,Rio de Janeiro 500 - QF,Sebastian Baez v Chun Hsin Tseng,N,2-0,,,N,l,,,
+2025-02-21,N,Superbet,Tenis,Jiri Lehecka,ML,,ATP Tour,Doha 500 - SF,Jiri Lehecka v Jack Draper,N,1-2,1.0,2.2,N,L,-1.0,-10.0,10.0
+2025-02-22,N,bet365,Futebol,Sim,Ambas marcam,Arbitrage,Premier League,Liga,Aston Villa v Chelsea,N,2-1,7.0,2.0,N,W,7.0,70.0,10.0
+2025-02-22,N,betfair,Futebol,Não,Ambas marcam,Arbitrage,Premier League,Liga,Aston Villa v Chelsea,N,2-1,5.0,2.85,N,L,-5.0,-50.0,10.0
+2025-02-23,N,bet365,Futebol,Rodrygo - Over 0.5,O/U chutes no gol,,La Liga,Liga,Real Madrid v Girona,N,2-0,7.0,2.0,N,L,-7.0,-70.0,10.0
+2025-02-23,N,Estrelabet,Futebol,Alisson ou Ederson - Over 0.5,O/U defesas,,Premier League,Liga,Real Madrid v Girona,N,2-0,0.5,2.0,N,W,0.5,5.0,10.0
+2025-02-25,N,Superbet,Tenis,Geoffrey Blancaneaux,ML,Bonfa,Challenger Tour,Kigali 1 75 - R32,Geoffrey Blancaneaux v Marco Cecchinato,N,0-2,1.0,1.88,N,L,-1.0,-10.0,10.0
+2025-02-25,N,Estrelabet,NBA,Luka Doncic - Over 4.5,,,,Temporada Regular,Los Angeles Lakers v Dallas Mavericks,N,,0.5,2.0,N,W,0.5,5.0,10.0
+2025-02-25,N,Superbet,Tenis,2 seleções,Dupla,Bonfa,,,,N,,1.0,1.834,N,W,0.834,8.34,10.0
+2025-02-25,S,,,Alex Michelsen,ML,,ATP Tour,Acapulco 500 - R32,Alex Michelsen v Yunchaokete Bu,N,2-1,,,N,w,,,
+2025-02-25,S,,,Frances Tiafoe,ML,,ATP Tour,Acapulco 500 - R32,Frances Tiafoe v Alexandre Muller,N,2-0,,,N,w,,,
+2025-02-26,N,betfair,Futebol,Criar Aposta,Dupla,,Premier League,Liga,Liverpool v Newcastle,N,2-0,1.0,2.75,N,W,1.75,17.5,10.0
+2025-02-26,S,,,Liverpool,ML,,,,,N,,,,N,w,,,
+2025-02-26,S,,,Bruno Guimarães - Over 0.5,O/U faltas cometidas,,,,,N,,,,N,w,,,
+2025-02-26,N,Superbet,Tenis,Super múltipla imensa,Múltipla,,,,,N,,0.5,7.4,Y,W,3.2,32.0,10.0
+2025-02-27,N,bet365,Futebol,1° tempo - Over 0.5,O/U gols no tempo,,Recopa,F,Botafogo v Racing,N,0-2,4.0,2.0,N,L,-4.0,-40.0,10.0
+2025-02-28,N,bet365,Futebol,Jamal Musiala - Over 0.5,O/U chutes no gol,,Bundesliga,Liga,Stuttgart v Bayern Munich,N,1-2,7.0,2.0,N,L,-7.0,-70.0,10.0
+2025-02-28,N,Betano,Futebol,Marcos Leonardo - Over 1.5,O/U chutes no gol,,Saudi Pro League,Liga,Al-Hilal v Al-Ahli,N,2-3,1.0,3.0,N,L,-1.0,-10.0,10.0
+2025-03-01,N,bet365,Futebol,Vinicius Jr. - Over 0.5,O/U chutes no gol,,La Liga,Liga,Real Betis v Real Madrid,N,2-1,7.0,2.0,N,W,7.0,70.0,10.0
+2025-03-02,N,Superbet,Tenis,2 seleções,Dupla,Bonfa,,,,N,,1.0,1.82,N,L,-1.0,-10.0,10.0
+2025-03-02,S,,,Mackenzie McDonald,ML,,Challenger Tour,San Diego 100 - F,Eliot Spizzirri v Mackenzie McDonald,N,2-1,,,N,l,,,
+2025-03-03,S,,,Tomas Farjat,ML,,Challenger Tour,Córdoba 2 125 - Q,Sean Hess v Tomas Farjat,N,1-2,,,N,w,,,
+2025-03-03,N,bet365,Futebol,São Paulo ML+Lucas - Over 0.5,Dupla,,Paulista,QF,São Paulo v Novorizontino,N,1-0,5.0,3.0,N,L,-5.0,-50.0,10.0
+2025-03-03,N,Superbet,Tenis,Damir Dzumhur,ML,,ATP Tour,Indian Wells 1000 - Q,Damir Dzumhur v Brandon Holt,N,2-0,1.0,2.07,N,W,1.07,10.7,10.0
+2025-03-04,N,bet365,Futebol,Vinicius Jr. - Over 0.5,O/U chutes no gol,,Champions League,R16,Real Madrid v Atlético de Madrid,N,2-1,7.0,2.0,N,W,7.0,70.0,10.0
+2025-03-04,N,Betano,Futebol,Vini Jr. + Mbappe - Over 0.5,O/U chutes no gol,,Champions League,R16,Real Madrid v Atlético de Madrid,N,2-1,2.0,3.0,N,W,4.0,40.0,10.0
+2025-03-04,N,bet365,Futebol,Vini Jr. anytime ou cartão,Anytime gol,,Champions League,R16,Real Madrid v Atlético de Madrid,N,2-1,1.0,2.2,N,L,-1.0,-10.0,10.0
+2025-03-05,N,Superbet,Tenis,Juan Pablo Ficovich,ML,Bonfa,Challenger Tour,Córdoba 75 - R16,Lautaro Midón v Juan Pablo Ficovich,N,0-2,1.0,1.61,N,W,0.61,6.1,10.0
+2025-03-05,N,Superbet,Tenis,Tallon Griekspoor,ML,,ATP Tour,Indian Wells 1000 - R128,Miomir Kecmanovic v Tallon Griekspoor,N,1-2,1.0,2.02,N,W,1.02,10.2,10.0
+2025-03-05,N,Superbet,Tenis,Flavio Cobolli,ML,Master,ATP Tour,Indian Wells 1000 - R128,Colton Smith v Flavio Cobolli,N,2-1,1.0,1.67,N,L,-1.0,-10.0,10.0
+2025-03-05,N,bet365,Futebol,Corinthians - Over 0.5,O/U gols,Arbitrage,Copa Libertadores,Fase 3,Barcelona SC v Corinthians,N,3-0,7.0,2.0,N,L,-7.0,-70.0,10.0
+2025-03-05,N,betfair,Futebol,Corinthians - Under 0.5,O/U gols,Arbitrage,Copa Libertadores,Fase 3,Barcelona SC v Corinthians,N,3-0,5.0,2.8,N,W,9.0,90.0,10.0
+2025-03-06,N,Superbet,Tenis,2 seleções,Dupla,,,,,N,,1.0,1.7,N,L,-1.0,-10.0,10.0
+2025-03-06,S,,,João Fonseca ,ML,,ATP Tour,Indian Wells 1000 - R128,Jacob Fearnley v João Fonseca,N,1-2,,,N,w,,,
+2025-03-06,S,,,Learner Tien,ML,,ATP Tour,Indian Wells 1000 - R128,Mariano Navone v Learner Tien,N,2-0,,,N,l,,,
+2025-03-08,N,Superbet,Tenis,Beatriz Haddad Maia,ML,Bonfa,WTA Tour,Indian Wells 1000 - R64,Sonay Kartal v Beatriz Haddad Maia,N,2-0,1.0,1.82,N,L,-1.0,-10.0,10.0
+2025-03-08,N,Estrelabet,Futebol,Over 0.5,O/U cartões,,Carioca,SF,Flamengo v Vasco da Gama,N,2-1,0.5,2.0,N,W,0.5,5.0,10.0
+2025-03-09,N,Estrelabet,Futebol,Neymar + Memphis - Over 0.5,O/U faltas sofridas,,Paulista,SF,Corinthians v Santos,N,2-1,0.5,2.0,N,W,0.5,5.0,10.0
+2025-03-10,N,Superbet,Tenis,Polina Kudermetova,ML,Bonfa,WTA Tour,Indian Wells 1000 - R32,Polina Kudermetova v Sonay Kartal,N,0-2,1.0,2.3,N,L,-1.0,-10.0,10.0
+2025-03-10,N,bet365,Futebol,Estêvão - Over 0.5,O/U chutes no gol,,Paulista,SF,Palmeiras v São Paulo,N,1-0,7.0,2.0,N,W,7.0,70.0,10.0
+2025-03-10,N,Estrelabet,Futebol,Lucas Moura 2° tempo - Over 0.5,O/U finalizações,,Paulista,SF,Palmeiras v São Paulo,N,1-0,0.5,2.0,N,L,-0.5,-5.0,10.0
+2025-03-10,N,Estrelabet,Futebol,Estevão 2° tempo - Over 0.5,O/U faltas sofridas,,Paulista,SF,Palmeiras v São Paulo,N,1-0,0.5,2.0,N,W,0.5,5.0,10.0
+2025-03-11,N,Estrelabet,Futebol,Alisson Becker - Over 0.5,O/U defesas,,Champions League,R16,Liverpool v Paris Saint Germain,N,0-1,0.5,2.0,N,W,0.5,5.0,10.0
+2025-03-11,N,bet365,Futebol,Mohamed Salah,Anytime G/A,,Champions League,R16,Liverpool v Paris Saint Germain,N,0-1,4.0,2.5,N,L,-4.0,-40.0,10.0
+2025-03-12,N,Estrelabet,Futebol,Over 0.5,O/U impedimentos,,Champions League,R16,Atlético de Madrid v Real Madrid,N,1-0,0.5,2.0,N,W,0.5,5.0,10.0
+2025-03-12,N,Superbet,Tenis,Taylor Fritz,ML,Bonfa,ATP Tour,Indian Wells 1000 - R16,Jack Draper v Taylor Fritz,N,2-0,1.0,2.05,N,L,-1.0,-10.0,10.0
+2025-03-13,N,novibet,Futebol,Nico Williams - Over 0.5,O/U chutes no gol,,Europa League,R16,Athletic Club v Roma,N,3-1,5.0,2.0,N,W,5.0,50.0,10.0
+2025-03-15,N,bet365,Futebol,1° tempo - Over 0.5,O/U gols no tempo,Arbitrage,Mineiro,F,América-MG v Atlético-MG,N,1-0,7.0,2.0,N,L,-7.0,-70.0,10.0
+2025-03-15,N,Betano,Futebol,1° tempo - Under 0.5,O/U gols no tempo,Arbitrage,Mineiro,F,América-MG v Atlético-MG,N,1-0,5.5,2.57,N,W,8.35,86.35,10.0
+2025-03-15,N,Superbet,Tenis,2 seleções,Dupla,Bonfa,,,,Y,,0.5,7.41,Y,W,3.205,32.05,10.0
+2025-03-15,S,,,Federico Cina,ML,,Challenger Tour,Hersonissos 2 50 - SF,Federico Cina v Aslan Karatsev,N,2-0,,,N,w,,,
+2025-03-15,S,,,Holger Rune,ML,,ATP Tour,Indian Wells 1000 - SF,Holger Rune v Daniil Medvedev,N,2-0,,,N,w,,,
+2025-03-16,N,Superbet,Futebol,Raphinha ou Julián Alvarez,Anytime gol,,La Liga,Liga,Atlético de Madrid v Barcelona,N,2-4,1.0,2.1,N,W,1.1,11.0,10.0
+2025-03-16,N,Superbet,Tenis,Over 22.5,O/U games,Bonfa,Challenger Tour,Santiago 75 - F,Thiago Monteiro v Daniel Galán,N,0-2,1.0,1.85,N,L,-1.0,-10.0,10.0
+2025-03-16,N,Superbet,Tenis,2 seleções,,,Challenger Tour,Phoenix 175 - F,Alexander Bublik v João Fonseca,N,0-2,1.0,3.5,N,W,2.5,25.0,10.0
+2025-03-16,S,,,João Fonseca -1.5,Handicap Asiático,,,,,N,,,,N,w,,,
+2025-03-16,S,,,João Fonseca - Over 2.5,O/U aces,,,,,N,,,,N,w,,,
+2025-03-16,N,Betano,Futebol,2 seleções,,,Carioca,F,Flamengo v Fluminense,N,0-0,1.0,4.25,N,L,-1.0,-42.50-10.00,10.0
+2025-03-16,S,,,Sim,Ambas marcam,,,,,N,,,,N,l,,,
+2025-03-16,S,,,Over 2.5,O/U gols,,,,,N,,,,N,l,,,
+2025-03-16,N,Estrelabet,Futebol,Over 0.5,O/U escanteios,,,F,Carioca + Paulista,N,,0.5,2.0,N,W,0.5,5.00,10.0
+2025-03-17,N,bet365,Tenis,Francisco Comesaña,ML,,ATP Tour,Miami 1000 - Q,Francisco Comesaña v Michael Mmoh,N,2-0,1.0,2.62,N,W,1.62,16.20,10.0
+2025-03-17,N,Superbet,Tenis,Yosuke Watanuki,ML,Bonfa,ATP Tour,Miami 1000 - Q,Gabriel Diallo v Yosuke Watanuki,N,2-1,1.0,2.47,N,L,-1.0,-10.00,10.0
+2025-03-19,N,Superbet,Tenis,Albert Ramos-Viñolas,ML,Bonfa,Challenger Tour,Murcia 75 - R32,Albert Ramos-Viñolas v Bernabé Zapata Miralles,N,2-1,1.0,2.02,N,W,1.02,10.20,10.0
+2025-03-19,N,Superbet,Tenis,Federico Cina +1.5,Handicap Asiático,,ATP Tour,Miami 1000 - R128,Francisco Comesaña v Federico Cina,Y,0-2 (6-5),1.0,1.87,Y,W,0.87,8.70,10.0
+2025-03-19,N,Betano,Futebol,1° tempo - Under 0.5,O/U gols no tempo,Arbitrage,Copa do Nordeste,Fase de Grupos,CSA v Bahia,N,1-2,5.7,2.45,N,L,-5.7,-57.00,10.0
+2025-03-19,N,bet365,Futebol,1° tempo - Over 0.5,O/U gols no tempo,Arbitrage,Copa do Nordeste,Fase de Grupos,CSA v Bahia,N,1-2,7.0,2.0,N,W,7.0,70.00,10.0
+2025-03-19,N,Betano,Tenis,2 seleções,,,ATP Tour,Miami 1000 - R128,Thiago Seyboth WIld v Quentin Halys,N,0-2,1.5,2.0,N,L,-1.5,-15.00,10.0
+2025-03-19,S,,,Thiago Seyboth Wild +1.5,Handicap,,,,,N,,,,N,l,,,
+2025-03-19,S,,,Over 18.5 ,O/U games,,,,,N,,,,N,l,,,
+2025-03-20,N,Superbet,Tenis,Zizou Bergs,ML,,ATP Tour,Miami 1000 - R128,Zizou Bergs v Nuno Borges,N,2-0,1.0,2.02,N,W,1.02,10.20,10.0
+2025-03-20,N,Superbet,Tenis,Over 22.5,O/U games,,ATP Tour,Miami 1000 - R128,Gabriel Diallo v Tomás Martin Etcheverry,N,2-0,1.0,1.7,N,L,-1.0,-10.00,10.0
+2025-03-20,N,Estrelabet,Futebol,Raphinha - Over 0.5,O/U chutes no gol,,Eliminatórias,Liga,Brasil v Colômbia,N,2-1,5.0,2.0,N,W,5.0,50.00,10.0
+2025-03-20,N,Betano,Futebol,Raphinha - Over 1.5,O/U chutes no gol,,Eliminatórias,Liga,Brasil v Colômbia,N,2-1,1.0,5.0,N,W,4.0,40.00,10.0
+2025-03-20,N,novibet,Futebol,Brasil - Over 0.5,O/U chutes no gol,,Eliminatórias,Liga,Brasil v Colômbia,N,2-1,1.86,2.0,N,W,1.857,18.57,10.0
+2025-03-20,N,bet365,Futebol,Brasil - Over 0.5,O/U chutes no gol,,Eliminatórias,Liga,Brasil v Colômbia,N,2-1,7.0,2.0,N,W,7.0,70.00,10.0
+2025-03-20,N,Superbet,Tenis,2 seleções,Dupla,Bonfa,,,,N,,1.0,1.96,N,W,0.96,9.60,10.0
+2025-03-20,S,,,Lorenzo Sonego,ML,,ATP Tour,Miami 1000 - R128,Lorenzo Sonego v Mariano Navone,N,2-0,,,N,w,,,
+2025-03-20,S,,,João Fonseca,ML,,ATP Tour,Miami 1000 - R128,João Fonseca v Learner Tien,N,2-1,,,N,w,,,
+2025-03-21,N,Superbet,Tenis,2 seleções,Dupla,,,,,N,,1.0,1.6625,N,W,0.6625,9.94,15.0
+2025-03-21,S,,,Felix Auger-Aliassime,ML,,ATP Tour,Miami 1000 - R64,Tristan Schoolkate v Felix Auger-Aliassime,N,0-2,,,N,w,,,
+2025-03-21,S,,,Brandon Nakashima,ML,,ATP Tour,Miami 1000 - R64,Brandon Nakashima v Roberto Carballés Baena,N,2-1,,,N,w,,,
+2025-03-21,N,Superbet,Tenis,Victoria Mboko,ML,,WTA Tour,Miami 1000 - R64,Victoria Mboko v Paula Badosa,Y,1-2 (1-1 4-5),0.466667,3.0,N,L,-0.47,-7.05,15.0
+2025-03-21,N,Betano,Tenis,Belinda Bencic,ML,Bonfa,WTA Tour,Miami 1000 - R64,Belinda Bencic v Elina Svitolina,N,0-2,1.0,1.62,N,L,-1.0,-15.0,15.0
+2025-03-21,N,bet365,Futebol,1° tempo - Over 0.5,O/U gols no tempo,Arbitrage,Eliminatórias,Liga,Uruguai v Argentina,N,0-1,4.666667,2.1,N,L,-4.67,-70.05,15.0
+2025-03-21,N,betfair,Futebol,1° tempo - Under 0.5,O/U gols no tempo,Arbitrage,Eliminatórias,Liga,Uruguai v Argentina,N,0-1,3.213333,2.15,Y,W,3.7,55.5,15.0
+2025-03-21,N,betfair,Futebol,1° tempo - Under 0.5,O/U gols no tempo,Arbitrage,Eliminatórias,Liga,Uruguai v Argentina,N,0-1,2.8,2.15,N,W,3.22,48.3,15.0
+2025-03-22,N,betfair,Tenis,Kimmer Coppejans,ML,Bonfa,Challenger Tour,Murcia 75 - SF,Carlos Taberner v Kimmer Coppejans,N,2-1,1.0,1.95,N,L,-1.0,-15.0,15.0
+2025-03-22,N,Betano,Tenis,1° set - Over 10.5,O/U games,Sam Culmer,ATP Tour,Miami 1000 - R64,Jordan Thompson v Giovanni Mpetshi Perricard,N,2-0,1.0,1.95,N,W,0.95,14.25,15.0
+2025-03-22,N,Betano,Tenis,Criar Aposta,Dupla,,ATP Tour,Miami 1000 - R64,Jakub Mensik v Jack Draper,N,2-0,0.333333,6.7,Y,W,1.9,28.5,15.0
+2025-03-22,S,,,1° set - Jakub Mensik,Set ML,,,,,N,,,,N,w,,,15.0
+2025-03-22,S,,,1° set - Over 10.5 games,O/U games,,,,,N,,,,N,w,,,15.0
+2025-03-22,N,betfair,Tenis,1° set - Linda Fruhvirtova,Set ML,Sam Culmer,WTA Tour,Miami 1000 - R32,Magda Linette v Linda Fruhvirtova,N,2-0,1.0,2.4,N,L,-1.0,-15.00,15.0
+2025-03-22,N,bet365,Tenis,Criar Aposta,Dupla,,ATP Tour,Miami 1000 - R64,João Fonseca v Ugo Humbert,N,2-0,1.0,2.5,Y,W,1.5,22.50,15.0
+2025-03-22,S,,,João Fonseca +1.5,Handicap Asiático,,,,,N,,,,N,w,,,15.0
+2025-03-22,S,,,João Fonseca - Over 4.5,O/U aces,,,,,N,,,,N,w,,,15.0
+2025-03-23,N,betfair,Tenis,1° set - Over 10.5,O/U games,Sam Culmer,ATP Tour,Miami 1000 - R32,Grigor Dimitrov v Karen Khachanov,N,2-1,1.0,2.63,Y,W,1.63,24.45,15.0
+2025-03-23,N,Superbet,Tenis,Over 22.5,O/U games,Sam Culmer,WTA Tour,Miami 1000 - R32,Clara Tauson v Paula Badosa,N,0-2,1.0,2.05,N,L,-1.0,-15.00,15.0
+2025-03-23,N,Betano,Futebol,Criar Aposta,Dupla,,Nations League,QF,Espanha v Países Baixos,N,2-2,0.666667,3.45,N,L,-0.67,-10.00,15.0
+2025-03-23,S,,,Lamine Yamal - Over 0.5,O/U gols,,,,,N,,,,N,w,,,15.0
+2025-03-23,S,,,Cody Gakpo - Over 0.5,O/U gols,,,,,N,,,,N,l,,,15.0
+2025-03-23,N,betfair,Tenis,1° set - Over 10.5,O/U games,Sam Culmer,WTA Tour,Miami 1000 - R32,Amanda Anisimova v Mirra Andreeva,N,2-1,1.0,4.5,N,W,3.5,52.50,15.0
+2025-03-23,N,Superbet,Tenis,Over 22.5,O/U games,Sam Culmer,ATP Tour,Miami 1000 - R32,Francisco Cerundolo v Tommy Paul,N,2-0,1.0,1.92,N,L,-1.0,-15.00,15.0
+2025-03-24,N,Betano,Futebol,Criar Aposta,Dupla,,Eliminatórias,Fase de Grupos,Inglaterra v Letônia,N,3-0,0.666667,3.75,N,L,-0.67,-10.00,15.0
+2025-03-24,S,,,Harry Kane - Over 1.5,O/U gols,,,,,N,,,,N,w,,,15.0
+2025-03-24,S,,,Jude Bellingham - Over 0.5,O/U gols,,,,,N,,,,N,l,,,15.0
+2025-03-24,N,bet365,Tenis,João Fonseca,ML,EU,ATP Tour,Miami 1000 - R32,Alex de Minaur v João Fonseca,N,2-1,1.0,2.2,N,L,-1.0,-15.00,15.0
+2025-03-24,N,bet365,Tenis,Criar Aposta,Dupla,,ATP Tour,Miami 1000 - R32,Alex de Minaur v João Fonseca - R32,N,2-1,1.0,4.0,N,L,-1.0,-15.00,15.0
+2025-03-24,S,,,João Fonseca - 1° set - Over 0.5 ,O/U breaks,,,,,N,,,,N,w,,,15.0
+2025-03-24,S,,,João Fonseca,ML,,,,,N,,,,N,l,,,15.0
+2025-03-25,N,Superbet,Tenis,1° set - Over 10.5,O/U games,Sam Culmer,ATP Tour,Miami 1000 - R16,Grigor Dimitrov v Brandon Nakashima,N,2-0,1.0,2.67,N,L,-1.0,-15.00,15.0
+2025-03-25,N,bet365,Tenis,1° set - Brandon Nakashima,Set ML,Sam Culmer,ATP Tour,Miami 1000 - R16,Grigor Dimitrov v Brandon Nakashima,N,2-0,1.0,2.3,N,L,-1.0,-15.00,15.0
+2025-03-25,N,Superbet,Tenis,1° set - Over 10.5,O/U games,Sam Culmer,ATP Tour,Miami 1000 - R16,Gael Monfils v Sebastian Korda,N,1-2,1.0,2.77,N,L,-1.0,-15.00,15.0
+2025-03-25,N,Betano,Tenis,1° set - Over 12.5,O/U games,Sam Culmer,ATP Tour,Miami 1000 - R16,Gael Monfils v Sebastian Korda,N,1-2,0.5,4.0,N,L,-0.5,-7.50,15.0
+2025-03-25,N,Betano,Tenis,Francisco Cerundolo,ML,Sam Culmer,ATP Tour,Miami 1000 - R16,Casper Ruud v Francisco Cerundolo,N,0-2,1.0,1.95,N,W,0.95,14.25,15.0
+2025-03-25,N,Estrelabet,Futebol,Over 0.5,O/U cartões,,Eliminatórias,Liga,Argentina v Brasil,N,4-1,0.2,3.0,N,W,0.4,6.00,15.0
+2025-03-25,N,bet365,Futebol,Vinicius Jr. - Over 0.5,O/U chutes no gol,,Eliminatórias,Liga,Argentina v Brasil,N,4-1,2.0,2.5,N,L,-2.0,-30.00,15.0
+2025-03-25,N,Betano,Futebol,Criar Aposta,Dupla,,Eliminatórias,Liga,Argentina v Brasil,N,4-1,0.666667,5.0,N,L,-0.67,-10.00,15.0
+2025-03-25,S,,,Vinicius Jr. - Over 0.5,O/U chutes no gol,,,,,N,,,,N,l,,,15.0
+2025-03-25,S,,,Raphinha - Over 0.5,O/U chutes no gol,,,,,N,,,,N,l,,,15.0
+2025-03-26,N,Betano,Tenis,Francisco Cerundolo,ML,Sam Culmer,ATP Tour,Miami 1000 - QF,Francisco Cerundolo v Grigor Dimitrov,N,1-2,1.666667,2.07,N,L,-1.666667,-25.0,15.0
+2025-03-27,N,Betano,Tenis,Jakub Mensik,ML,Sam Culmer,ATP Tour,Miami 1000 - QF,Arthur Fils v Jakub Mensik,N,0-2,1.6667,1.93,N,W,1.2837,19.26,15.0
+2025-03-27,N,betfair,Tenis,1° set - Over 10.5,O/U games,Sam Culmer,ATP Tour,Miami 1000 - QF,Sebastian Korda v Novak Djokovic,N,0-2,1.0,3.0,N,L,-1.0,-15.00,15.0
+2025-03-27,N,bet365,Tenis,1° set - Over 10.5,O/U games,Sam Culmer,ATP Tour,Miami 1000 - QF,Taylor Fritz v Matteo Berrettini,N,2-1,1.0,2.1,N,W,1.1,16.50,15.0
+2025-03-27,N,bet365,Tenis,1° set - Over 12.5,O/U games,Sam Culmer,ATP Tour,Miami 1000 - QF,Taylor Fritz v Matteo Berrettini,N,2-1,1.0,2.5,N,L,-1.0,-15.00,15.0
+2025-03-27,N,bet365,Tenis,1° set - Berrettini - 7-5 ou 7-6,Resultado Exato - Set,Sam Culmer,ATP Tour,Miami 1000 - QF,Taylor Fritz v Matteo Berrettini,N,2-1,0.5,4.5,N,L,-0.5,-7.50,15.0
+2025-03-27,N,Estrelabet,Futebol,Over 0.5,O/U cartões,,Paulista,F,Corinthians v Palmeiras,N,0-0,0.2,3.0,N,W,0.4,6.00,15.0
+2025-03-27,N,bet365,Futebol,Yuri Alberto - Over 0.5,O/U chutes no gol,,Paulista,F,Corinthians v Palmeiras,N,0-0,2.6667,2.0,N,W,2.6667,40.00,15.0
+2025-03-28,N,Betano,Futebol,Criar Aposta,Tripla,L10,Bundesliga,Liga,Bayer Leverkusen v Bochum,N,3-1,1.0,1.7,N,W,0.7,10.50,15.0
+2025-03-28,S,,,Bayer Leverkusen,ML,,,,,N,,,,N,w,,,15.0
+2025-03-28,S,,,1° tempo - Over 0.5,O/U gols no tempo,,,,,N,,,,N,w,,,15.0
+2025-03-28,S,,,2° tempo - Over 0.5,O/U gols no tempo,,,,,N,,,,N,w,,,15.0
+2025-03-28,N,bet365,Tenis,1° set - Grigor Dimitrov,Set ML,Sam Culmer,ATP Tour,Miami 1000 - SF,Novak Djokovic v Grigor Dimitrov,N,2-0,0.5,3.4,N,L,-0.5,-7.50,15.0
+2025-03-28,N,bet365,Tenis,1° set - Over 10.5,O/U games,Sam Culmer,ATP Tour,Miami 1000 - SF,Jakub Mensik v Taylor Fritz,N,2-1,1.0,2.5,N,W,1.5,22.50,15.0
+2025-03-28,N,Betano,Tenis,1° set - Jakub Mensik,Set ML,Sam Culmer,ATP Tour,Miami 1000 - SF,Jakub Mensik v Taylor Fritz,N,2-1,1.0,2.8,N,W,1.8,27.00,15.0
+2025-03-29,N,Superbet,Tenis,2 seleções,Dupla,Sam Culmer,,,,N,,1.0,2.33,,W,1.33,19.98,15.0
+2025-03-29,S,,,Jakub Mensik +1.5,Handicap Asiático,,ATP Tour,Miami 1000 - SF,Jakub Mensik v Taylor Fritz,N,2-1,,,N,w,,,15.0
+2025-03-29,S,,,Aryna Sabalenka,ML,,WTA Tour,Miami 1000 - F,Aryna Sabalenka v Jessica Pegula,N,2-0,,,N,w,,,15.0
+2025-03-29,N,Betano,Futebol,3 seleções,Tripla,L10,,,,N,,1.3333,1.52,Y,W,0.69,10.40,15.0
+2025-03-29,S,,,Over 1.5,O/U gols,,Bundesliga,Liga,Holstein Kiel v Werder Bremen,N,0-3,,,N,w,,,15.0
+2025-03-29,S,,,Over 1.5,O/U gols,,La Liga,Liga,Real Madrid v Leganés,N,3-2,,,N,w,,,15.0
+2025-03-29,S,,,Real Madrid,ML,,La Liga,Liga,Real Madrid v Leganés,N,3-2,,,N,w,,,15.0
+2025-03-29,N,Superbet,Kings League,Nyvelados,ML,,Kings League Brazil,Fase de Liga,Nyvelados v Desimpedidos Goti,N,1-0,0.5,2.55,Y,W,0.775,11.63,15.0
+2025-03-29,N,Superbet,Kings League,Dendele,ML,,Kings League Brazil,Fase de Liga,Dendele v Furia,N,2-6,0.6667,4.0,N,L,-0.6667,-10.00,15.0
+2025-03-29,N,Superbet,Kings League,Funkbol,ML,,Kings League Brazil,Fase de Liga,Capim v Funkbol,N,6-4,0.5,2.6,N,L,-0.5,-7.50,15.0
+2025-03-29,N,bet365,Kings League,Fluxo,ML,,Kings League Brazil,Fase de Liga,Loud v Fluxo,N,8-4,0.5,3.9,N,L,-0.5,-7.50,15.0
+2025-03-29,N,Superbet,Kings League,Real Elite,ML,,Kings League Brazil,Fase de Liga,Real Elite v G3X,N,3-4,0.5,3.4,N,L,-0.5,-7.50,15.0
+2025-03-29,N,Superbet,Kings League,Sim,Ambos presidentes marcam,,Kings League Brazil,Fase de Liga,Real Elite v G3X,N,3-4,1.0,2.0,Y,W,1.0,15.00,15.0
+2025-03-29,N,bet365,Futebol,Germán Cano - Over 0.5,O/U chutes no gol,,Brasileirão,Liga,Fortaleza v Fluminense,N,2-0,2.6667,2.0,N,L,-2.6667,-40.00,15.0
+2025-03-29,N,Superbet,Kings League,4 seleções,Múltipla,,Kings League Brazil,Fase de Liga,,N,,0.3333,7.88,Y,W,2.6216,34.40,15.0
+2025-03-29,S,,,Furia,ML,,Kings League Brazil,Fase de Liga,Dendele v Furia,N,2-6,,,N,w,,,15.0
+2025-03-29,S,,,Capim,ML,,Kings League Brazil,Fase de Liga,Capim v Funkbol,N,6-4,,,N,w,,,15.0
+2025-03-29,S,,,Loud,ML,,Kings League Brazil,Fase de Liga,Loud v Fluxo,N,8-4,,,N,w,,,15.0
+2025-03-29,S,,,G3X,ML,,Kings League Brazil,Fase de Liga,Real Elite v G3X,N,3-4,,,N,w,,,15.0
+2025-03-30,N,Betano,Tenis,2 seleções,Dupla,EU,,,,N,,1.0,1.79,N,W,0.79,11.85,15.0
+2025-03-30,S,,,Luciano Darderi,ML,,Challenger Tour,Napoli 125 - SF,Luciano Darderi v Dalibor Svrcina,N,2-1,,,N,W,0.8500000000000001,17.0,15.0
+2025-03-30,S,,,Aryna Sabalenka,ML,,WTA Tour,Miami 1000 - F,Aryna Sabalenka v Jessica Pegula,N,2-0,,,N,w,,,15.0
+2025-03-30,N,Betano,Tenis,1° set - Jakub Mensik +1.5,Handicap games,Sam Culmer,ATP Tour,Miami 1000 - F,Jakub Mensik v Novak Djokovic,N,2-0,1.0,2.25,N,W,1.25,18.75,15.0
+2025-03-30,N,bet365,Tenis,1° set - Over 10.5,O/U games,Sam Culmer,ATP Tour,Miami 1000 - F,Jakub Mensik v Novak Djokovic,N,2-0,1.0,3.0,N,W,2.0,30.00,15.0
+2025-03-30,N,Betano,Tenis,1° set - Jakub Mensik,Set ML,Sam Culmer,ATP Tour,Miami 1000 - F,Jakub Mensik v Novak Djokovic,N,2-0,0.5,3.2,N,W,1.1,16.50,15.0
+2025-03-31,N,bet365,Kings League,Dendele,ML,,Kings League Brazil,Fase de Liga,Dendele v Fluxo,N,(1)3-3(2),0.5,2.75,N,L,-0.5,-7.50,15.0
+2025-03-31,N,Superbet,Kings League,Funkbol,ML,,Kings League Brazil,Fase de Liga,Desimpedidos Goti v Funkbol,N,3-2,0.5,2.05,N,L,-0.5,-7.50,15.0
+2025-03-31,N,Superbet,Kings League,Sim,Ambos presidentes marcam,,Kings League Brazil,Fase de Liga,G3X v Capim,N,3-1,1.0,1.8,N,W,1.0,12.00,15.0
+2025-03-31,N,Superbet,Kings League,Até 0:59,Minutagem do gol,,Kings League Brazil,Fase de Liga,Furia v Real Elite,N,4-2,1.0,1.95,N,L,-1.0,-15.00,15.0
+2025-03-31,N,bet365,Tenis,Learner Tien,ML,EU,ATP Tour,Houston 250 - R32,Alex Michelsen v Learner Tien,N,2-0,1.0,2.3,N,L,-1.0,-15.00,15.0
+2025-04-01,N,Betano,Tenis,1° set - Valentin Vacherot,ML,Sam Culmer,ATP Tour,Bucharest 250 - R32,Valentin Vacherot v Damir Dzumhur,N,0-2,0.6667,2.15,N,L,-0.6667,-10.00,15.0
+2025-04-01,N,Betano,Tenis,Valentin Vacherot,ML,,ATP Tour,Bucharest 250 - R32,Valentin Vacherot v Damir Dzumhur,N,0-2,1.0,2.12,N,L,-1.0,-15.00,15.0
+2025-04-01,N,Betano,Tenis,Filip Misolic,ML,Sam Culmer,ATP Tour,Bucharest 250 - R32,Akexander Shevchenko v Filip Misolic,N,0-2,1.0,1.82,N,W,0.82,12.30,15.0
+2025-04-01,N,betfair,Tenis,1° set - Kamil Majchrzak,Set ML,Sam Culmer,ATP Tour,Marrakesh 250 - R32,Kamil Majchrzak v Jaume Munar,N,2-0,1.0,2.5,N,W,1.5,22.50,15.0
+2025-04-02,N,betfair,Tenis,1° set - Filip Misolic,Set ML,Sam Culmer,ATP Tour,Bucharest 250 - R16,Camilo Ugo Carabelli v Filip Misolic,N,0-2,1.0,2.3,N,W,1.3,19.50,15.0
+2025-04-04,N,betfair,Tenis,1° set - Filip Misolic,ML,Sam Culmer,ATP Tour,Bucharest 250 - QF,Filip Misolic v Flavio Cobolli,N,0-2,1.0,2.05,N,L,-1.0,-15.00,15.0
+2025-04-04,N,betfair,Tenis,Filip Misolic,ML,Sam Culmer,ATP Tour,Bucharest 250 - QF,Filip Misolic v Flavio Cobolli,N,0-2,1.0,2.15,N,L,-1.0,-15.00,15.0
+2025-04-04,N,Betano,Tenis,Damir Dzumhur,ML,Wags,ATP Tour,Bucharest 250 - QF,Damir Dzumhur v Pedro Martinez,N,1-0 RET,1.0,2.12,N,W,1.12,16.80,15.0
+2025-04-04,N,Superbet,Tenis,1° set - Kamil Majchrzak,Set ML,Sam Culmer,ATP Tour,Marrakesh 250 - QF,Alexandre Muller v Kamil Majchrzak,N,0-2,1.0,2.1,N,W,1.1,16.50,15.0
+2025-04-04,N,Superbet,Tenis,Kamil Majchrzak,ML,Sam Culmer,ATP Tour,Marrakesh 250 - QF,Alexandre Muller v Kamil Majchrzak,N,0-2,1.0,2.17,N,W,1.17,17.55,15.0
+2025-04-04,N,betfair,Tenis,Aleksandar Kovacevic,ML,Bonfa,ATP Tour,Houston 250 - QF,Jenson Brooksby v Aleksandar Kovacevic,N,2-1,1.0,2.1,N,L,-1.0,-15.00,15.0
+2025-04-04,N,bet365,Futebol,2 seleções,Dupla,,Saudi Pro League,Liga,Al Hilal v Al Nassr,N,1-3,4.6667,2.0,N,L,-4.6667,-70.00,15.0
+2025-04-04,S,,,Cristiano Ronaldo - Over 0.5,O/U chutes no gol,,,,,N,,,,N,w,,,15.0
+2025-04-04,S,,,Malcom - Over 0.5,O/U chutes no gol,,,,,N,,,,N,l,,,15.0
+2025-04-04,N,Superbet,Futebol,Harry Kane - Over 1.5,O/U chutes no gol,,Bundesliga,Liga,Augsburg v Bayern Munich,N,1-2,1.3333,2.12,N,W,1.4933,22.40,15.0
+2025-04-04,N,betfair,Tenis,Anna Kalinskaya,ML,Wags,WTA Tour,Charleston 500 - QF,Sofia Kenin v Anna Kalinskaya,N,2-0,1.0,2.1,N,L,-1.0,-15.00,15.0
+2025-04-04,N,Betano,Tenis,Christopher Eubanks +3.5,Handicap games,Wags,ATP Tour,Houston 250 - QF,Christopher Eubanks v Brandon Nakashima,N,0-2,1.0,2.12,N,L,-1.0,-15.00,15.0
+2025-04-05,N,bet365,Tenis,1° set - Marton Fucsovics,Set ML,Sam Culmer,ATP Tour,Bucharest 250 - SF,Sebastian Baez v Marton Fucsovics,N,2-0,1.5,2.2,N,L,-1.5,-22.50,15.0
+2025-04-05,N,Betano,Tenis,1° set - Over 10.5,O/U games,Sam Culmer,ATP Tour,Marrakesh 250 - SF,Tallon Griekspoor v Kamil Majchrzak,N,2-0,0.5,3.05,N,W,1.025,15.38,15.0
+2025-04-05,N,Betano,Tenis,1° set - Kamil Majchrzak +1.5,Handicap games,Sam Culmer,ATP Tour,Marrakesh 250 - SF,Tallon Griekspoor v Kamil Majchrzak,N,2-0,1.0,1.8,N,L,-1.0,-15.00,15.0
+2025-04-05,N,bet365,Futebol,Vinicius Jr. - Over 0.5,O/U chutes no gol,,La Liga,Liga,Real Madrid v Valencia,N,1-2,4.6667,2.0,N,W,4.6667,70.00,15.0
+2025-04-05,N,Superbet,Tenis,1° set - Ekaterina Alexandrova,Set ML,Sam Culmer,WTA Tour,Charleston 500 - SF,Jessica Pegula v Ekaterina Alexandrova,N,2-1,1.0,2.4,N,L,-1.0,-15.00,15.0
+2025-04-07,N,bet365,Tenis,1° set - Stanislas Wawrinka,Set ML,Sam Culmer,ATP Tour,Monte Carlo 1000 - R64,Stanislas Wawinka v Alejandro Tabilo,N,1-2,2.0,2.0,N,W,1.0,30.00,15.0
+2025-04-07,N,bet365,Tenis,1° set - Karen Khachanov,Set ML,Sam Culmer,ATP Tour,Monte Carlo 1000 - R64,Daniil Medvedev v Karen Khachanov,N,2-1,1.0,2.3,N,L,-1.0,-15.00,15.0
+2025-04-07,N,Superbet,Tenis,Karen Khachanov,ML,Sam Culmer,ATP Tour,Monte Carlo 1000 - R64,Daniil Medvedev v Karen Khachanov,N,2-1,1.0,2.45,N,L,-1.0,-15.00,15.0
+2025-04-07,N,betfair,Tenis,1° set - Mariano Navone,Set ML,Sam Culmer,ATP Tour,Monte Carlo 1000 - R64,Mariano Navone v Matteo Berrettini,N,0-2,1.0,2.4,N,L,-1.0,-15.00,15.0
+2025-04-08,N,Superbet,Kings League,Real Elite,ML,,Kings League Brazil,Fase de Liga,Real Elite v Loud,N,5-2,1.0,2.6,N,W,1.6,24.00,15.0
+2025-04-07,N,Superbet,Kings League,Até 0:59,Minutagem do gol,,Kings League Brazil,Fase de Liga,Real Elite v Loud,N,5-2,0.3333,2.1,N,L,-0.3333,-5.00,15.0
+2025-04-07,N,Superbet,Kings League,Até 0:59,Minutagem do gol,,Kings League Brazil,Fase de Liga,G3X v Funkbol,N,6-3,0.3333,2.25,N,W,0.4166,6.25,15.0
+2025-04-07,N,Superbet,Kings League,Até 0:59,Minutagem do gol,,Kings League Brazil,Fase de Liga,Desimpedidos GOTI v Fluxo,N,(2)2-2(1),0.3333,2.25,N,L,-0.3333,-5.00,15.0
+2025-04-07,N,Superbet,Kings League,Até 0:59,Minutagem do gol,,Kings League Brazil,Fase de Liga,Dendele v Capim,N,5-3,0.3333,2.25,N,L,-0.3333,-5.00,15.0
+2025-04-07,N,Superbet,Kings League,Até 0:59,Minutagem do gol,,Kings League Brazil,Fase de Liga,Furia v Nyvelados,N,3-0,0.3333,2.25,N,W,0.4166,6.25,15.0
+2025-04-07,N,Superbet,Kings League,2 seleções,Dupla,,Kings League Brazil,Fase de Liga,Furia v Nyvelados,N,3-0,0.6667,1.75,N,W,0.5,7.50,15.0
+2025-04-07,S,,,Furia,ML,,,,,N,,,,N,w,,,15.0
+2025-04-07,S,,,Leleti,Anytime gol,,,,,N,,,,N,w,,,15.0
+2025-04-08,N,Superbet,Tenis,1° set - Nicolas Jarry +1.5,Handicap games,Sam Culmer,ATP Tour,Monte Carlo 1000 - R64,Nicolas Jarry v Grigor Dimitrov,N,0-2,1.0,2.05,N,L,-1.0,-15.00,15.0
+2025-04-08,N,Superbet,Tenis,1° set - Nicolas Jarry,Set ML,Sam Culmer,ATP Tour,Monte Carlo 1000 - R64,Nicolas Jarry v Grigor Dimitrov,N,0-2,1.0,3.0,N,L,-1.0,-15.00,15.0
+2025-04-08,N,bet365,Futebol,Vinicius Jr. - Over 0.5,O/U chutes no gol,,Champions League,QF,Arsenal v Real Madrid,N,3-0,4.6667,2.5,N,L,-4.6667,-70.00,15.0
+2025-04-09,N,betfair,Tenis,Over 22.5,O/U games,Sam Culmer,ATP Tour,Monte Carlo 1000 - R32,Jiri Lehecka v Lorenzo Musetti,N,1-2,2.0,1.95,N,W,1.9,28.50,15.0
+2025-04-09,N,bet365,Tenis,1° set - Francisco Cerundolo,Set ML,Sam Culmer,ATP Tour,Monte Carlo 1000 - R32,Francsico Cerundolo v Carlos Alcaraz,N,1-2,1.0,3.2,N,W,2.2,33.00,15.0
+2025-04-09,N,betfair,Tenis,1° set - Alejandro Tabilo,Set ML,Sam Culmer,ATP Tour,Monte Carlo 1000 - R32,Novak Djokovic v Alejandro Tabilo,N,0-2,1.0,4.0,N,W,3.0,45.00,15.0
+2025-04-09,N,betfair,Tenis,Alexandre Muller +3.5,Handicap games,Wags,ATP Tour,Monte Carlo 1000 - R32,Daniil Medvedev v Alexandre Muller,N,2-1,1.25,1.83,N,W,1.0375,15.56,15.0
+2025-04-09,N,Betano,Futebol,Raphinha,Anytime gol,,Champions League,QF,Barcelona v Borussia Dortmund,N,4-0,0.6667,3.75,N,W,1.8333,27.50,15.0
+2025-04-09,N,Betano,Futebol,Criar Aposta,Tripla,L10,Champions League,QF,Barcelona v Borussia Dortmund,N,4-0,1.3333,1.52,N,W,0.6933,10.40,15.0
+2025-04-09,S,,,Barcelona,ML,,,,,N,,,,N,w,,,15.0
+2025-04-09,S,,,Over 1.5,O/U gols,,,,,N,,,,N,w,,,15.0
+2025-04-09,S,,,1° tempo - Over 1.5,O/U escanteios,,,,,N,,,,N,w,,,15.0
+2025-04-09,N,Estrelabet,Futebol,Estevão - Over 0.5,O/U chutes no gol,,Copa Libertadores,Fase de Grupos,Palmeiras v Cerro Porteño,N,1-0,1.67,2.0,N,W,1.67,25.00,15.0
+2025-04-09,N,bet365,Futebol,1° tempo - Over 0.5,O/U gols no tempo,,Copa Libertadores,Fase de Grupos,Flamengo v Central Córdoba,N,1-2,4.67,2.0,N,W,4.67,70.00,15.0
+2025-04-10,N,betfair,Tenis,Over 22.5,O/U games,Sam Culmer,ATP Tour,Monte Carlo 1000 - R16,Andrey Rublev v Arthur Fils,N,0-2,2.0,1.9,N,L,-2.0,-30.00,15.0
+2025-04-10,N,Superbet,Tenis,1° set - Lorenzo Musetti,Set ML,Sam Culmer,ATP Tour,Monte Carlo 1000 - R16,Matteo Berrettini v Lorenzo Musetti,N,0-2,1.0,2.1,N,W,1.1,16.50,15.0
+2025-04-10,N,Betano,Tenis,Beatriz Haddad Maia,ML,EU,Billie Jean King Cup,Qualifiers - Grupo B,Linda Noskova v Beatriz Haddad Maia,N,2-0,0.5,2.87,N,L,-0.5,-7.50,15.0
+2025-04-10,N,novibet,Tenis,Stefanos Tsitsipas -3.5,Handicap games,Master,ATP Tour,Monte Carlo 1000 - R16,Nuno Borges v Stefanos Tsitsipas,N,0-2,1.24,1.63,N,W,0.78,11.70,15.0
+2025-04-10,N,bet365,Tenis,Under 21.5,O/U games,Wags,ATP Tour,Monte Carlo 1000 - R16,Nuno Borges v Stefanos Tsitsipas,N,0-2,1.5,1.9,N,W,1.35,20.25,15.0
+2025-04-11,N,betfair,Tenis,1° set - Alexei Popyrin,Set ML,Sam Culmer,ATP Tour,Monte Carlo 1000 - QF,Alejandro Davidovich Fokina v Alexei Popyrin,N,2-0,1.0,2.4,N,L,-1.0,-15.00,15.0
+2025-04-11,N,Betano,Tenis,Alejandro Davidovich Fokina -2.5,Handicap games,Wags,ATP Tour,Monte Carlo 1000 - QF,Alejandro Davidovich Fokina v Alexei Popyrin,N,2-0,1.5,1.78,N,W,1.17,17.55,15.0
+2025-04-11,N,betfair,Tenis,Grigor Dimitrov +2.5,Handicap games,Wags,ATP Tour,Monte Carlo 1000 - QF,Grigor Dimitrov v Alex de Minaur,N,0-2,2.0,2.0,N,L,-2.0,-30.00,15.0
+2025-04-11,N,Superbet,Tenis,Grigor Dimitrov,ML,Wags,ATP Tour,Monte Carlo 1000 - QF,Grigor Dimitrov v Alex de Minaur,N,0-2,1.0,2.75,N,L,-1.0,-15.00,15.0
+2025-04-11,N,bet365,Tenis,Stefanos Tsitsipas -1.5,Handicap games,Wags,ATP Tour,Monte Carlo 1000 - QF,Lorenzo Musetti v Stefanos Tsitsipas,N,2-1,1.5,1.8,N,L,-1.5,-22.50,15.0
+2025-04-12,N,Betano,Tenis,Jozef Kovalik +2.5,Handicap games,Wags,ATP Tour,Barcelona 500 - Q,Jozef Kovalik v Arthur Rinderknech,N,1-2,1.0,1.87,N,W,0.87,13.05,15.0
+2025-04-12,N,betfair,Tenis,Jozef Kovalik,ML,Wags,ATP Tour,Barcelona 500 - Q,Jozef Kovalik v Arthur Rinderknech,N,2-1,0.75,2.37,N,L,-0.75,-11.25,15.0
+2025-04-12,N,bet365,Baseball,Minnesota Twins -1.5,Handicap Asiático,Wags,MLB,Regular Season,Minnesota Twins v Detroit Tigers,N,0-4,1.0,2.4,N,L,-1.0,-15.00,15.0
+2025-04-12,N,bet365,Baseball,Athletics,ML,Wags,MLB,Regular Season,Athletics v New York Mets,N,3-1,1.25,2.1,N,W,1.375,20.63,15.0
+2025-04-12,N,Estrelabet,Futebol,Under 9.5,O/U gols,,Brasileirão,Liga,Palmeiras v Corinthians,N,2-0,0.33,2.0,N,W,0.33,5.00,15.0
+2025-04-13,N,novibet,Tenis,Aliaksandra Sasnovich,ML,Wags,ATP Tour,Stuttgart 500 - Q,Erika Andreeva v Aliaksandra Sasnovich,N,0-2,1.75,1.78,N,W,1.365,27.30,20.0
+2025-04-13,N,Betano,Tenis,Botic van de Zandschulp -3.5,Handicap games,Wags,ATP Tour,Munich 500 - Q,Learner Tien v Botic van de Zandschulp,N,2-0,1.0,1.93,N,L,-1.0,-20.00,20.0
+2025-04-13,N,betfair,Tenis,Carlos Alcaraz - 1.5,Handicap Asiático,Sam Culmer,ATP Tour,Monte Carlo 1000 - F,Lorenzo Musetti v Carlos Alcaraz,N,1-2,2.0,1.65,N,L,-2.0,-40.00,20.0
+2025-04-13,N,Betano,Baseball,Over 8.5,O/U Runs,Wags,MLB,Regular Season,Tampa Bay Rays v Atlanta Braves,N,8-3,1.5,1.91,N,W,1.365,27.30,20.0
+2025-04-13,N,bet365,Baseball,Cleveland Guardians,ML,Wags,MLB,Regular Season,Cleveland Guardians v Kansas City Royals,N,2-4,1.0,2.2,N,L,-1.0,-20.00,20.0
+2025-04-13,N,bet365,Baseball,Arizona Diamondbacks,ML,Wags,MLB,Regular Season,Arizona Diamondbacks v Milwaukee Brewers,N,5-2,1.25,1.86,N,W,1.075,21.50,20.0
+2025-04-13,N,Betano,Futebol,3 seleções,Tripla,L10,,,,N,,1.0,1.6375,N,W,0.6375,12.75,20.0
+2025-04-13,S,,,Over 0.5,O/U gols,,Brasileirão,Liga,São Paulo v Cruzeiro,N,1-1,,,N,w,,,20.0
+2025-04-13,S,,,Atlético-MG - Over 0.5,O/U gols,,Brasileirão,Liga,Atlético-MG v Vitória,N,2-2,,,N,w,,,20.0
+2025-04-13,S,,,Atlético-MG ou Empate,Dupla,,Brasileirão,Liga,Atlético-MG v Vitória,N,2-2,,,N,w,,,20.0
+2025-04-13,N,Superbet,Futebol,3 seleções,Tripla,,Brasileirão,,,N,,0.5,5.5,N,L,-0.5,-10.0,20.0
+2025-04-13,S,,,São Paulo,ML,,,Liga,São Paulo v Cruzeiro,N,1-1,,,N,l,,,20.0
+2025-04-13,S,,,Atlético-MG,ML,,,Liga,Atlético-MG v Vitória,N,1-1,,,N,l,,,20.0
+2025-04-13,S,,,Bahia,ML,,,Liga,Bahia v Mirassol,N,1-1,,,N,l,,,20.0
+2025-04-14,N,bet365,Tenis,1° set - Borna Gojo,Set ML,Sam Culmer,ATP Tour,Munich 500 - R32,Borna Gojo v Ben Shelton,N,1-2,1.0,2.75,N,W,1.75,35.00,20.0
+2025-04-14,N,Betano,Tenis,Brandon Nakashima,ML,Wags,ATP Tour,Barcelona 500 - R32,Pedro Martínez v Brandon Nakashima,N,2-1,2.0,1.75,N,L,-2.0,-40.0,20.0
+2025-04-14,N,Bet365,Tenis,1° set - Albert Ramos-Vinolas,Set ML,Sam Culmer,ATP Tour,Barcelona 500 - R32,Holger Rune v Albert Ramos-Vinolas,N,2-0,0.5,4.33,N,L,-0.5,-10.0,20.0
+2025-04-14,N,Superbet,Tenis,1° set - Fiona Ferro,Set ML,Sam Culmer,WTA Tour,Rouen 250 - R32,McCartney Kessler v Fiona Ferro,N,,1.0,2.35,N,L,-1.0,-20.0,20.0
+2025-04-14,N,Bet365,Baseball,Washington Nationals +1.5,Handicap Asiático,Wags,MLB,Regular Season,Pittsburgh Pirates v Washington Nationals,N,10-3,2.0,1.8,N,L,-2.0,-40.0,20.0
+2025-04-14,N,Betano,Baseball,San Francisco Giants,ML,Wags,MLB,Regular Season,Philadelphia Philles v San Francisco Giants,N,4-10,1.25,1.95,N,W,1.1875,23.75,20.0
+2025-04-14,N,Superbet,Kings League,Até 0:59,Minutagem do gol,,Kings League Brazil,Fase de Liga,Capim v Fluxo,N,1-5,0.25,2.3,N,L,-0.25,-5.0,20.0
+2025-04-14,N,Superbet,Kings League,Até 0:59,Minutagem do gol,,Kings League Brazil,Fase de Liga,Real Elite v Funkbol,N,(3)8-8(4),0.25,2.3,N,L,-0.25,-5.0,20.0
+2025-04-14,N,Superbet,Kings League,Até 0:59,Minutagem do gol,,Kings League Brazil,Fase de Liga,Dendele v Nyvelados,N,(3)3-3(2),0.25,2.3,N,L,-0.25,-5.0,20.0
+2025-04-14,N,Superbet,Kings League,Até 0:59,Minutagem do gol,,Kings League Brazil,Fase de Liga,Desimpedidos GOTI v G3X,N,3-8,0.25,2.3,N,L,-0.25,-5.0,20.0
+2025-04-14,N,Superbet,Kings League,Até 0:59,Minutagem do gol,,Kings League Brazil,Fase de Liga,Furia v Loud,N,6-1,0.25,2.3,N,W,0.325,6.50,20.0
+2025-04-15,N,Bet365,Tenis,1° set - Tomas Martin Etcheverry,Set ML,Sam Culmer,ATP Tour,Barcelona 500 - R32,Tomas Martin Etcheverry v Alex de Minaur,N,0-2,1.0,3.0,N,L,-1.0,-20.0,20.0
+2025-04-15,N,Bet365,Tenis,1° set - Stanislas Wawrinka,Set ML,Sam Culmer,ATP Tour,Barcelona 500 - R32,Stanislas Wawrinka v Alejandro Davidovich Fokina,N,0-2,1.0,3.0,N,L,-1.0,-20.0,20.0
+2025-04-15,N,Betano,Tenis,1° set - Camilla Rosatello,Set ML,Sam Culmer,WTA Tour,Rouen 250 - R32,Camilla Rosatello v Alycia Parks,N,2-0,1.0,2.55,N,W,1.55,31.00,20.0
+2025-04-15,N,Bet365,Tenis,1° set - Yannick Hanfmann,Set ML,Sam Culmer,ATP Tour,Munich 500 - R32,Yannick Hanfmann v Jakub Mensik,N,2-1,0.5,3.0,N,W,1.0,20.0,20.0
+2025-04-15,N,Bet365,Tenis,1° set - Over 10.5,O/U games,Sam Culmer,ATP Tour,Munich 500 - R32,Yannick Hanfmann v Jakub Mensik,N,2-1,0.5,3.4,N,W,1.2,24.0,20.0
+2025-04-15,N,Bet365,Tenis,Yannick Hanfmann +3.5,Handicap games,Wags,ATP Tour,Munich 500 - R32,Yannick Hanfmann v Jakub Mensik,N,2-1,1.5,1.9,N,W,1.35,27.00,20.0
+2025-04-15,N,Bet365,Tenis,Yannick Hanfmann,ML,Wags,ATP Tour,Munich 500 - R32,Yannick Hanfmann v Jakub Mensik,N,2-1,0.5,3.5,N,W,1.25,25.0,20.0
+2025-04-15,N,Bet365,Tenis,Margaux Rouvroy,ML,Wags,WTA Tour,Rouen 250 - R32,Margaux Rouvroy v Jessika Ponchet,N,0-2,1.0,2.0,N,L,-1.0,-20.0,20.0
+2025-04-15,N,Betfair,Tenis,Laura Siegemund,ML,Wags,WTA Tour,Stuttgart 500 - R32,Jule Niemeier v Laura Siegmund,N,2-1,1.0,1.83,N,L,-1.0,-20.0,20.0
+2025-04-15,N,Bet365,Futebol,Kvicha Kvaratskhelia - Over 0.5,O/U chutes no gol,,Champions League,QF,Aston Villa v Paris Saint-Germain,N,3-2,2.5,2.0,N,L,-2.5,-50.0,20.0
+2025-04-15,N,Bet365,Futebol,Raphinha - Over 0.5,O/U chutes no gol,,Champions League,QF,Borussia Dortmund v Barcelona,N,3-1,3.5,2.0,N,W,3.5,70.0,20.0
+2025-04-15,N,Novibet,Baseball,Cincinnati Reds,ML,Wags,MLB,Regular Season,Cincinnati Reds v Seattle Mariners,N,8-4,1.5,1.92,N,W,1.38,27.60,20.0
+2025-04-15,N,Bet365,Baseball,Toronto Blue Jays,ML,Wags,MLB,Regular Season,Toronto Blue Jays v Atlanta Braves,N,6-3,2.0,1.95,N,W,1.9,38.0,20.0
+2025-04-15,N,Bet365,Baseball,Under 8.0,O/U Runs,Wags,MLB,Regular Season,Minnesota Twins v New York Mets,N,6-3,1.25,1.9,N,L,-1.25,-25.0,20.0
+2025-04-16,N,Betano,Tenis,Luciano Darderi,ML,Sam Culmer,ATP Tour,Munich 500 - R16,Luciano Darderi v Miomir Kecmanovic,N,2-1,1.0,1.85,N,W,0.85,17.0,20.0
+2025-04-16,N,Betano,Tenis,1° set - Daniel Altmaier +1.5,Handicap games,Sam Culmer,ATP Tour,Munich 500 - R16,Alexander Zverev v Daniel Altmaier,N,2-0,1.0,1.95,N,L,-1.0,-20.0,20.0
+2025-04-16,N,Betano,Tenis,1° set - Over 10.5,O/U games,Sam Culmer,ATP Tour,Munich 500 - R16,Alexander Zverev v Daniel Altmaier,N,2-0,1.0,3.75,N,L,-1.0,-20.0,20.0
+2025-04-16,N,Bet365,Tenis,1° set - Over 10.5,O/U games,Sam Culmer,ATP Tour,Munich 500 - R16,Tallon Griekspoor v Yannick Hanfmann,N,2-0,1.0,3.25,N,W,2.25,45.0,20.0
+2025-04-16,N,Superbet,Futebol,Real Madrid,Para se classificar,,Champions League,QF,Real Madrid v Arsenal,N,1-2,0.5,6.85,N,L,-0.5,-10.0,20.0
+2025-04-16,N,Betano,Futebol,2 seleções,Dupla,L10,Champions League,QF,Inter de Milão v Bayern Munich,N,2-2,1.0,1.7,N,W,0.7,14.0,20.0
+2025-04-16,S,,,Inter de Milão +2,Handicap,,,,,N,-,,,N,w,,,20.0
+2025-04-16,S,,,Harry Kane - Over 0.5,O/U chutes no gol,,,,,N,-,,,N,w,,,20.0
+2025-04-16,N,Betano,Baseball,Chicago White Sox +1.5,Handicap Asiático,Wags,MLB,Regular Season,Chicago White Sox v Athletics,N,1-3,1.25,1.8,N,L,-1.25,-25.0,20.0
+2025-04-16,N,Betano,Futebol,3 seleções,Tripla,L10,-,-,-,N,-,1.0,1.57,N,L,-1.0,-20.0,20.0
+2025-04-16,S,,,Santos - Over 0.5,O/U gols,,Brasileirão,Liga,Santos v Atlético-MG,N,2-0,,,N,w,,,20.0
+2025-04-16,S,,,Corinthians +2,Handicap,,Brasileirão,Liga,Corinthians v Fluminense,N,0-2,,,N,l,,,20.0
+2025-04-16,S,,,Corinthians - Over 0.5 + Fluminense - Over 0.5,O/U cartões,,Brasileirão,Liga,Corinthians v Fluminense,N,0-2,,,N,w,,,20.0
+2025-04-17,N,Novibet,Tenis,David Goffin +4.5,Handicap games,Wags,ATP Tour,Munich 500 - R16,David Goffin v Mariano Navone,N,2-1,1.5,1.68,N,W,1.02,20.4,20.0
+2025-04-17,N,Betano,Tenis,Moyuka Uchijima,ML,Wags,WTA Tour,Rouen 250 - R16,Moyuka Uchijima v Lois Boisson,N,2-1,2.0,1.83,N,W,1.66,33.2,20.0
+2025-04-17,N,Estrelabet,Tenis,1° set - Laslo Djere,Set ML,Sam Culmer,ATP Tour,Barcelona 500 - R16,Carlos Alcaraz v Laslo Djere,N,2-0,0.5,5.66,N,L,-0.5,-10.0,20.0
+2025-04-17,N,Betano,Tenis,Fabian Marozsan,Set ML,Sam Culmer,ATP Tour,Munich 500 - R16,Ugo Humbert v Fabian Marozsan,N,0-2,2.0,1.93,N,W,1.86,37.20,20.0
+2025-04-17,N,Betano,Tenis,Under 20.5 games,O/U games,Wags,WTA Tour,Rouen 250 - R16,Elina Svitolina v Anhelina Kalinina,N,2-0,1.5,1.78,N,W,1.17,23.4,20.0
+2025-04-17,N,Novibet,Baseball,Cleveland Guadians,ML,Wags,MLB,Regular Season,Baltimore Orioles v Cleveland Guardians,N,6-2,1.5,1.93,N,L,-1.5,-30.0,20.0
+2025-04-18,N,Betano,Tenis,Luciano Darderi,ML,Sam Culmer,ATP Tour,Munich 500 - QF,Luciano Darderi v Ben Shelton,N,0-2,1.0,1.85,N,L,-1.0,-20.0,20.0
+2025-04-18,N,Betano,Tenis,Casper Ruud -2.5,Handicap games,Wags,ATP Tour,Barcelona 500 - QF,Holger Rune v Casper Ruud,N,2-0,1.25,1.85,N,L,-1.25,-25.0,20.0
+2025-04-18,N,Betfair,Tenis,1° set - Over 10.5,O/U games,Sam Culmer,ATP Tour,Munich 500 - QF,Alexander Zverev v Tallon Griekspoor,N,2-1,1.0,2.62,N,W,1.62,32.40,20.0
+2025-04-18,N,Bet365,Baseball,Kyle Tucker - Over 0.5,O/U home runs,Wags,MLB,Regular Season,Chicago Cubs v Arizona Diamondbacks,N,13-11,0.5,3.9,N,W,1.45,29.0,20.0
+2025-04-18,N,Bet365,Futebol,Viktor Gyokeres,Anytime G/A,,Liga Portugal,Liga,Sporting v Moreirense,N,3-1,2.5,2.0,N,W,2.5,50.0,20.0
+2025-04-18,N,Superbet,Tenis,6 seleções,Múltipla,,Mixed,-,-,N,-,0.25,7.64,S,W,1.66,33.20,20.0
+2025-04-18,N,Novibet,Baseball,Seattle Mariners,ML,Wags,MLB,Regular Season,Toronto Blue Jays v Seattle Mariners,N,3-1,1.0,2.02,N,L,-1.0,-20.0,20.0
+2025-04-19,N,Bet365,Tenis de Mesa,Hugo Calderano +2.5,Handicap games,EU,ITTF World Cup,SF,Hugo Calderano v Chuqin Wang,N,4-3,1.0,1.83,N,W,0.83,16.67,20.0
+2025-04-19,N,Bet365,Tenis de Mesa,Hugo Calderano,ML,EU,ITTF World Cup,SF,Hugo Calderano v Chuqin Wang,N,4-3,0.5,4.5,N,W,1.75,35.0,20.0
+2025-04-19,N,Bet365,Tenis,Elmer Moeller,ML,Bonfa,Challenger Tour,SF,Elmer Moeller v Roman Safiullin,N,2-0,0.5,2.2,N,W,0.6,12.00,20.0
+2025-04-19,N,Bet365,Tenis,1° set - Over 10.5,O/U games,Sam Culmer,ATP Tour,Munich 500 - SF,Francisco Cerundolo v Ben Shelton,N,1-2,1.0,3.25,N,L,-1.0,-20.0,20.0
+2025-04-19,N,Bet365,Tenis,1° set - Over 10.5,O/U games,Sam Culmer,ATP Tour,Munich 500 - SF,Alexander Zverev v Fabian Marozsan,N,2-0,0.5,3.4,N,W,1.2,24.0,20.0
+2025-04-19,N,Bet365,Tenis,1° set - Fabian Marozsan,Set ML,Sam Culmer,ATP Tour,Munich 500 - SF,Alexander Zverev v Fabian Marozsan,N,2-0,0.5,3.5,N,L,-0.5,-10.0,20.0
+2025-04-19,N,Betfair,Tenis,2-0,Resultado Exato,Sam Culmer,ATP Tour,Barcelona 500 - SF,Carlos Alcaraz v Arthur Fils,N,2-0,2.0,1.95,N,W,1.9,38.0,20.0
+2025-04-19,N,Bet365,Tenis,Coco Gauff -3.5,Handicap games,Wags,WTA Tour,Stuttgart 500 - QF,Coco Gauff v Jasmine Paolini,N,0-2,1.25,1.8,N,L,-1.25,-25.0,20.0
+2025-04-19,N,Betfair,Baseball,Over 8.5,O/U runs,Wags,MLB,Regular Season,Tampa Bay Rays v New York Yankees,N,10-8,1.5,1.91,N,W,1.365,27.30,20.0
+2025-04-20,N,Bet365,Tenis,1° set - Over 10.5,O/U games,Sam Culmer,ATP Tour,Munich 500 - F,Alexander Zverev v Ben Shelton,N,2-0,1.0,3.0,N,L,-1.0,-20.0,20.0
+2025-04-20,N,Bet365,Tenis,1° set - Over 12.5,O/U games,Sam Culmer,ATP Tour,Munich 500 - F,Alexander Zverev v Ben Shelton,N,2-0,0.5,4.0,N,L,-0.5,-10.0,20.0
+2025-04-20,N,Betano,Tenis,Elmer Moeller,ML,EU,Challenger Tour,Oeiras 125 - F,Francisco Comesaña v Elmer Moeller,N,0-2,0.5,2.45,N,W,0.725,14.50,20.0
+2025-04-20,N,Betano,Tenis,Over 20.5,O/U games,Sam Culmer,ATP Tour,Barcelona 500 - F,Carlos Alcaraz v Holger Rune,N,0-2,2.0,1.82,N,W,1.64,32.80,20.0
+2025-04-20,N,Betano,Tenis,1° set - Holger Rune  +1.5,Handicap games,Sam Culmer,ATP Tour,Barcelona 500 - F,Carlos Alcaraz v Holger Rune,N,0-2,1.0,2.6,N,W,1.6,32.0,20.0
+2025-04-20,N,Bet365,Tenis,1° set - Holger Rune,Set ML,Sam Culmer,ATP Tour,Barcelona 500 - F,Carlos Alcaraz v Holger Rune,N,0-2,0.5,3.5,N,W,1.25,25.0,20.0
+2025-04-20,N,Bet365,Tenis,1° set - Over 10.5,O/U games,Sam Culmer,ATP Tour,Barcelona 500 - F,Carlos Alcaraz v Holger Rune,N,0-2,0.5,4.0,N,W,1.5,30.0,20.0
+2025-04-20,N,Betano,Tenis,Olga Danilovic +4.5,Handicap games,Wags,WTA Tour,Rouen 250 - F,Elina Svitolina v Olga Danilovic,N,2-0,1.5,1.88,N,W,1.32,26.4,20.0
+2025-04-20,N,Estrelabet,Tenis,Olga Danilovic,ML,Wags,WTA Tour,Rouen 250 - F,Elina Svitolina v Olga Danilovic,N,2-0,0.5,3.66,N,L,-0.5,-10.0,20.0
+2025-04-20,N,Superbet,Baseball,Over 7.5,O/U runs,Wags,MLB,Regular Season,Philadelphia Phillies v Miami Marlins,N,5-7,1.5,1.8,N,W,1.2,24.00,20.0
+2025-04-21,N,Superbet,Tenis,Anastasia Zakharova,ML,Wags,WTA Tour,Madrid 1000 - Q,Jule Niemeier v Anastasia Zakharova,N,2-0,1.25,1.87,N,L,-1.0,-10.00,20.0
+2025-04-22,N,Novibet,Baseball,Miami Marlins,ML,Wags,MLB,Regular Season,Miami Marlins v Cincinnati Reds,N,6-3,1.0,2.0,N,W,1.0,20.0,20.0
+2025-04-22,N,Superbet,Tenis,Valentin Royer,ML,Wags,ATP Tour,Madrid 1000 - Q,Vit Kopriva v Valentin Royer,N,2-1,1.5,1.87,N,L,-1.5,-30.0,20.0
+2025-04-22,N,Superbet,Tenis,Viktoriya Tomova,ML,Wags,WTA Tour,Madrid 1000 - R128,Viktoriya Tomova v Alexandra Eala,N,0-2,1.0,2.25,N,L,-1.0,-20.0,20.0
+2025-04-22,N,Betano,Tenis,Dusan Lajovic,ML,Wags,ATP Tour,Madrid 1000 - Q,Dusan Lajovic v Christian Garin,N,0-2,1.5,1.85,N,W,1.275,25.50,20.0
+2025-04-22,N,Betfair,Tenis,Hugo Dellien,ML,Wags,ATP Tour,Madrid 1000 - Q,Jacob Fearnley v Hugo Dellien,N,2-0,1.0,2.15,N,L,-1.0,-20.0,20.0
+2025-04-22,N,Betano,Futebol,Omar Marmoush - Over 0.5 + Marcus Rashford - Over 0.5,O/U chutes no gol,,Premier League,Liga,Manchester City v Aston Villa,N,2-1,0.75,3.55,N,L,-0.75,-15.0,20.0
+2025-04-22,N,Bet365,Futebol,Ambas Marcam + Over 2.5 gols,Dupla,,Premier League,Liga,Manchester City v Aston Villa,N,2-1,1.5,2.5,N,W,2.25,45.0,20.0
+2025-04-22,N,Superbet,Baseball,Over 9.5,O/U runs,Wags,MLB,Regular Season,Boston Red Sox v Seattle Mariners,N,8-3,1.25,2.02,N,W,1.275,25.5,20.0
+2025-04-23,N,Betano,Tenis,1° set - Maria Lourdes Carlé,Set ML,Sam Culmer,WTA Tour,Madrid 1000 - R128,Maria Lourdes Carlé v Rebecca Sramkova,N,2-0,1.0,2.45,N,W,1.45,29.00,20.0
+2025-04-23,N,Betano,Tenis,Rebeka Masarova,ML,Sam Culmer,WTA Tour,Madrid 1000 - R128,Ajla Tomljanovic v Rebeka Masarova,N,1-2,1.0,1.85,N,W,0.85,17.0,20.0
+2025-04-23,N,Betano,Tenis,Alycia Parks,ML,Wags,WTA Tour,Madrid 1000 - R128,Alycia Parks v Victoria Kasintseva,N,2-0,0.5,2.6,N,W,0.8,16.0,20.0
+2025-04-23,N,Betano,Tenis,Alycia Parks +3.5,Handicap games,Wags,WTA Tour,Madrid 1000 - R128,Alycia Parks v Victoria Kasintseva,N,2-0,1.5,1.9,N,W,1.35,27.00,20.0
+2025-04-23,N,Betano,Tenis,Ashlyn Krueger,ML,Wags,WTA Tour,Madrid 1000 - R128,Ashlyn Krueger v Anastasia Potapova,N,1-2,2.0,2.05,N,L,-2.0,-40.0,20.0
+2025-04-23,N,Betano,Tenis,Nuno Borges,ML,Wags,ATP Tour,Madrid 1000 - R128,Nuno Borges v Pablo Carreño Busta,N,2-1,1.25,1.82,N,W,1.025,20.5,20.0
+2025-04-23,N,Betano,Tenis,Francisco Comesaña,ML,Wags,ATP Tour,Madrid 1000 - R128,Francisco Comesaña v Pedro Martínez,N,2-0,1.25,1.88,N,W,1.1,22.00,20.0
+2025-04-23,N,Betano,Tenis,Alex Michelsen,ML,Wags,ATP Tour,Madrid 1000 - R128,Alex Michelsen v Alexander Bublik,N,0-2,1.0,2.1,N,L,-1.0,-20.0,20.0
+2025-04-23,N,Bet365,Baseball,Chicago White Sox +1.5,Handicap Asiático,Wags,MLB,Regular Season,Minnesota Twins v Chicago White Sox,N,6-3,1.0,2.05,N,L,-1.0,-20.0,20.0
+2025-04-23,N,Bet365,Basquete,Stephen Curry - Over 19.5 + Alperen Sengun - Over 19.5,O/U pontos,,NBA,Western Conference - 1st Round,Houston Rockets v Golden State Warriors,N,109-94,2.0,3.0,N,L,-2.0,-40.0,20.0
+2025-04-24,N,Bet365,Tenis,1° set - Hamad Medjedovic,Set ML,Sam Culmer,ATP Tour,Madrid 1000 - R128,Tomas Martin Etcheverry v Hamad Medjedovic,N,2-1,1.0,1.72,N,L,-1.0,-20.0,20.0
+2025-04-24,N,Betano,Tenis,Daniel Altmaier,ML,Sam Culmer,ATP Tour,Madrid 1000 - R128,Daniel Altmaier v Nicolas Jarry,N,0-2,1.0,1.72,N,L,-1.0,-20.0,20.0
+2025-04-24,N,Betano,Tenis,1° set - Borna Coric,Set ML,Sam Culmer,ATP Tour,Madrid 1000 - R128,Matteo Arnaldi v Borna Coric,N,2-1,1.0,2.05,N,W,1.05,21.00,20.0
+2025-04-24,N,Betano,Tenis,Donna Vekic,ML,Wags,WTA Tour,Madrid 1000 - R64,Donna Vekic v Hailey Baptiste,N,2-0,1.25,1.91,N,W,1.1375,22.75,20.0
+2025-04-24,N,Betano,Tenis,Under 22.5,O/U games,Wags,ATP Tour,Madrid 1000 - R128,Quentin Halys v Luciano Darderi,N,2-0,1.5,2.0,N,W,1.5,30.0,20.0
+2025-04-24,N,Superbet,Tenis,Over 21.5,O/U games,Wags,ATP Tour,Madrid 1000 - R128,Martin Landaluce v Cameron Norrie,N,1-2,1.25,1.92,N,W,1.15,23.0,20.0
+2025-04-24,N,Betano,Tenis,Learner Tien,ML,Wags,ATP Tour,Madrid 1000 - R128,Learner Tien v Marcos Giron,N,1-2,1.0,2.27,N,L,-1.0,-20.0,20.0
+2025-04-24,N,Superbet,Tenis,Beatriz Haddad Maia + João Fonseca,ML,,ATP Tour,Madrid 1000 - R64 + R128,Haddad Maia v Pera + Fonseca v Moeller,N,2-1 + 2-0,1.0,4.0,N,W,3.0,60.0,20.0
+2025-04-25,N,Bet365,Tenis,1° set - Arthur Rinderknech,Set ML,Sam Culmer,ATP Tour,Madrid 1000 - R64,Arthur Rinderknech v Casper Ruud,N,0-2,0.5,5.0,N,L,-0.5,-10.0,20.0
+2025-04-25,N,Bet365,Tenis,1° set - Federico Cina,Set ML,Sam Culmer,ATP Tour,Madrid 1000 - R64,Sebastian Korda v Federico Cina,N,2-1,0.5,4.0,N,L,-0.5,-10.0,20.0
+2025-04-25,N,Bet365,Tenis,1° set - Laslo Djere,Set ML,Sam Culmer,ATP Tour,Madrid 1000 - R64,Daniil Medvedev v Laslo Djere,N,W.O,1.0,2.37,N,R,0.0,0.0,20.0
+2025-04-25,N,Bet365,Tenis,1° set - Christopher O'Connell,Set ML,Sam Culmer,ATP Tour,Madrid 1000 - R64,Taylor Fritz v Christopher O'Connell,N,2-0,0.5,3.4,N,L,-0.5,-10.0,20.0
+2025-04-25,N,Bet365,Tenis,1° set - Over 10.5,O/U games,Sam Culmer,ATP Tour,Madrid 1000 - R64,Taylor Fritz v Christopher O'Connell,N,2-0,1.0,2.75,N,L,-1.0,-20.0,20.0
+2025-04-25,N,Bet365,Tenis,1° set - Veronika Kudermetova,O/U games,Sam Culmer,WTA Tour,Madrid 1000 - R64,Paula Badosa v Veronika Kudermetova,N,W.O,1.0,2.12,N,R,0.0,0.0,20.0
+2025-04-25,N,Betano,Tenis,Peyton Stearns +4.5,Handicap games,Wags,WTA Tour,Madrid 1000 - R64,Peyton Stearns v Amanda Anisimova,N,2-1,1.25,1.85,N,W,1.0625,21.25,20.0
+2025-04-25,N,Betano,Tenis,Peyton Stearns,ML,Wags,WTA Tour,Madrid 1000 - R64,Peyton Stearns v Amanda Anisimova,N,2-1,0.25,3.5,N,W,0.625,12.5,20.0
+2025-04-25,N,Betano,Tenis,Emma Raducanu,ML,Wags,WTA Tour,Madrid 1000 - R64,Emma Raducanu v Marta Kostyuk,N,1-2,1.5,1.9,N,L,-1.5,-30.0,20.0
+2025-04-25,N,Betano,Tenis,Nuno Borges +3.5,Handicap games,Wags,ATP Tour,Madrid 1000 - R64,Nuno Borges v Alejandro Davidovich Fokina,N,,1.5,1.91,N,Em Aberto,0.0,0.0,20.0
+2025-04-25,N,Novibet,Tenis,Nuno Borges,ML,Wags,ATP Tour,Madrid 1000 - R64,Nuno Borges v Alejandro Davidovich Fokina,N,,0.5,2.95,N,Em Aberto,0.0,0.0,20.0

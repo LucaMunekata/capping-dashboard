@@ -1,0 +1,51 @@
+data,esporte,tipo_aposta,capper,lucro_reais,lucro_unidades
+2025-03-01,Tênis,Handicap,Capper B,132.23,1.32
+2025-03-02,Tênis,Over/Under,Capper A,3.83,0.04
+2025-03-03,Tênis,Over/Under,Capper A,3.17,0.03
+2025-03-04,Basquete,Ambos Marcam,Capper C,109.12,1.09
+2025-03-05,Tênis,Match Odds,Capper C,-75.85,-0.76
+2025-03-06,Futebol,Handicap,Capper A,55.8,0.56
+2025-03-07,Basquete,Match Odds,Capper A,-6.04,-0.06
+2025-03-08,Tênis,Over/Under,Capper C,73.39,0.73
+2025-03-09,Basquete,Handicap,Capper A,-0.31,-0.0
+2025-03-10,Futebol,Ambos Marcam,Capper B,79.76,0.8
+2025-03-11,Tênis,Match Odds,Capper C,-140.75,-1.41
+2025-03-12,Basquete,Ambos Marcam,Capper B,64.79,0.65
+2025-03-13,Futebol,Ambos Marcam,Capper C,3.66,0.04
+2025-03-14,Tênis,Ambos Marcam,Capper A,38.77,0.39
+2025-03-15,Futebol,Over/Under,Capper C,197.54,1.98
+2025-03-16,Basquete,Match Odds,Capper B,1.11,0.01
+2025-03-17,Tênis,Match Odds,Capper B,-64.71,-0.65
+2025-03-18,Futebol,Over/Under,Capper B,52.25,0.52
+2025-03-19,Futebol,Over/Under,Capper A,-68.36,-0.68
+2025-03-20,Basquete,Ambos Marcam,Capper B,-80.4,-0.8
+2025-03-21,Tênis,Handicap,Capper B,53.59,0.54
+2025-03-22,Tênis,Handicap,Capper C,-104.69,-1.05
+2025-03-23,Tênis,Over/Under,Capper A,72.12,0.72
+2025-03-24,Tênis,Over/Under,Capper A,-113.56,-1.14
+2025-03-25,Tênis,Ambos Marcam,Capper B,138.02,1.38
+2025-03-26,Futebol,Handicap,Capper C,-88.28,-0.88
+2025-03-27,Basquete,Over/Under,Capper A,36.45,0.36
+2025-03-28,Futebol,Handicap,Capper A,94.02,0.94
+2025-03-29,Tênis,Match Odds,Capper B,83.92,0.84
+2025-03-30,Futebol,Over/Under,Capper A,93.42,0.93
+2025-03-31,Futebol,Match Odds,Capper C,67.32,0.67
+2025-04-01,Basquete,Handicap,Capper B,150.37,1.5
+2025-04-02,Basquete,Handicap,Capper B,119.59,1.2
+2025-04-03,Tênis,Over/Under,Capper B,101.87,1.02
+2025-04-04,Basquete,Over/Under,Capper A,-123.24,-1.23
+2025-04-05,Basquete,Over/Under,Capper B,75.36,0.75
+2025-04-06,Futebol,Handicap,Capper A,-12.52,-0.13
+2025-04-07,Basquete,Over/Under,Capper B,116.51,1.17
+2025-04-08,Tênis,Handicap,Capper A,71.81,0.72
+2025-04-09,Futebol,Ambos Marcam,Capper C,176.68,1.77
+2025-04-10,Tênis,Match Odds,Capper C,-87.58,-0.88
+2025-04-11,Basquete,Ambos Marcam,Capper B,194.33,1.94
+2025-04-12,Tênis,Handicap,Capper C,94.61,0.95
+2025-04-13,Tênis,Ambos Marcam,Capper B,-21.81,-0.22
+2025-04-14,Basquete,Match Odds,Capper A,-55.83,-0.56
+2025-04-15,Basquete,Ambos Marcam,Capper C,97.36,0.97
+2025-04-16,Tênis,Match Odds,Capper A,116.49,1.16
+2025-04-17,Futebol,Match Odds,Capper A,192.69,1.93
+2025-04-18,Futebol,Handicap,Capper C,-127.72,-1.28
+2025-04-19,Basquete,Match Odds,Capper A,-90.31,-0.9
